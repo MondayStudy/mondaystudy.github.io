@@ -1,5 +1,5 @@
 ---
 name: yongwoo
-title: 
+title: 이용우
 image: /files/authors/yongwoo.jpg
 ---
